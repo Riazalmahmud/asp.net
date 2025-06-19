@@ -1,0 +1,14 @@
+D:\asp.net\assignment-7\obj\Debug\net7.0\assignment-7.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net\assignment-7\obj\Debug\net7.0\assignment-7.AssemblyInfoInputs.cache
+D:\asp.net\assignment-7\obj\Debug\net7.0\assignment-7.AssemblyInfo.cs
+D:\asp.net\assignment-7\obj\Debug\net7.0\assignment-7.csproj.CoreCompileInputs.cache
+D:\asp.net\assignment-7\bin\Debug\net7.0\assignment-7.exe
+D:\asp.net\assignment-7\bin\Debug\net7.0\assignment-7.deps.json
+D:\asp.net\assignment-7\bin\Debug\net7.0\assignment-7.runtimeconfig.json
+D:\asp.net\assignment-7\bin\Debug\net7.0\assignment-7.dll
+D:\asp.net\assignment-7\bin\Debug\net7.0\assignment-7.pdb
+D:\asp.net\assignment-7\obj\Debug\net7.0\assignment-7.dll
+D:\asp.net\assignment-7\obj\Debug\net7.0\refint\assignment-7.dll
+D:\asp.net\assignment-7\obj\Debug\net7.0\assignment-7.pdb
+D:\asp.net\assignment-7\obj\Debug\net7.0\assignment-7.genruntimeconfig.cache
+D:\asp.net\assignment-7\obj\Debug\net7.0\ref\assignment-7.dll

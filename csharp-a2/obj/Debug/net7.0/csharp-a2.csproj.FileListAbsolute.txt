@@ -1,0 +1,14 @@
+D:\asp.net\csharp-a2\bin\Debug\net7.0\csharp-a2.exe
+D:\asp.net\csharp-a2\bin\Debug\net7.0\csharp-a2.deps.json
+D:\asp.net\csharp-a2\bin\Debug\net7.0\csharp-a2.runtimeconfig.json
+D:\asp.net\csharp-a2\bin\Debug\net7.0\csharp-a2.dll
+D:\asp.net\csharp-a2\bin\Debug\net7.0\csharp-a2.pdb
+D:\asp.net\csharp-a2\obj\Debug\net7.0\csharp-a2.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net\csharp-a2\obj\Debug\net7.0\csharp-a2.AssemblyInfoInputs.cache
+D:\asp.net\csharp-a2\obj\Debug\net7.0\csharp-a2.AssemblyInfo.cs
+D:\asp.net\csharp-a2\obj\Debug\net7.0\csharp-a2.csproj.CoreCompileInputs.cache
+D:\asp.net\csharp-a2\obj\Debug\net7.0\csharp-a2.dll
+D:\asp.net\csharp-a2\obj\Debug\net7.0\refint\csharp-a2.dll
+D:\asp.net\csharp-a2\obj\Debug\net7.0\csharp-a2.pdb
+D:\asp.net\csharp-a2\obj\Debug\net7.0\csharp-a2.genruntimeconfig.cache
+D:\asp.net\csharp-a2\obj\Debug\net7.0\ref\csharp-a2.dll

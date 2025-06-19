@@ -1,0 +1,14 @@
+D:\asp.net\csharp-a1\bin\Debug\net7.0\csharp-a1.exe
+D:\asp.net\csharp-a1\bin\Debug\net7.0\csharp-a1.deps.json
+D:\asp.net\csharp-a1\bin\Debug\net7.0\csharp-a1.runtimeconfig.json
+D:\asp.net\csharp-a1\bin\Debug\net7.0\csharp-a1.dll
+D:\asp.net\csharp-a1\bin\Debug\net7.0\csharp-a1.pdb
+D:\asp.net\csharp-a1\obj\Debug\net7.0\csharp-a1.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net\csharp-a1\obj\Debug\net7.0\csharp-a1.AssemblyInfoInputs.cache
+D:\asp.net\csharp-a1\obj\Debug\net7.0\csharp-a1.AssemblyInfo.cs
+D:\asp.net\csharp-a1\obj\Debug\net7.0\csharp-a1.csproj.CoreCompileInputs.cache
+D:\asp.net\csharp-a1\obj\Debug\net7.0\csharp-a1.dll
+D:\asp.net\csharp-a1\obj\Debug\net7.0\refint\csharp-a1.dll
+D:\asp.net\csharp-a1\obj\Debug\net7.0\csharp-a1.pdb
+D:\asp.net\csharp-a1\obj\Debug\net7.0\csharp-a1.genruntimeconfig.cache
+D:\asp.net\csharp-a1\obj\Debug\net7.0\ref\csharp-a1.dll
