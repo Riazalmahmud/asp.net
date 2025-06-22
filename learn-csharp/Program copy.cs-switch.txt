@@ -1,0 +1,24 @@
+﻿using System;
+class Test
+{
+    public static void Main(string[] args)
+    {
+        // double fahrenheit, calicos;
+        // Console.Write("Enter the temperature in Celsius: ");
+        // fahrenheit = Convert.ToDouble(Console.ReadLine());
+        // calicos = (fahrenheit - 32) % 1.8;
+        // Console.WriteLine("The temperature in Fahrenheit is: " + calicos.ToString("F2"));
+
+        Console.WriteLine("enter your number");
+        int numbers = Convert.ToInt32(Console.ReadLine());
+        string result = numbers switch
+        {
+            int n when n % 2 == 0 => "even",
+            int n when n % 2 != 0 => "odd",
+            _ => "unknown"
+        };
+        Console.WriteLine($"The number is {result}.");
+       
+    }
+}
+

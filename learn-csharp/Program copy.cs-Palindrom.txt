@@ -1,0 +1,31 @@
+﻿using System;
+class PalindromeNum
+{
+
+    public static bool IsPalindrom(int x)
+    {
+
+        if (x < 0)
+            return false;
+        int temp = x;
+        int rev = 0;
+        while (temp > 0)
+        {
+            int digit = temp % 10;
+            rev = rev * 10 + digit;
+            temp /= 10;
+        }
+        return rev == x;
+
+        return temp == rev;
+    }
+    public static void Main(string[] args)
+    {
+        if (IsPalindrom(12) == true)
+            Console.WriteLine($"This is a Palindrome Number");
+        else
+            Console.WriteLine($"This is not a Palindrome Number");
+
+    }
+}
+
