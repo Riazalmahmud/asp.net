@@ -1,31 +1,34 @@
 ﻿using System;
-class TemperatureConverter
+class FectorialNumber
 {
 
-
-    public static void Main(string[] args)
+    public static int Factorial(int n)
     {
-        Console.WriteLine("Enter temperature in Celsius:");
-        int input = Convert.ToInt32(Console.ReadLine());
-        if (input == 1)
+        int sum = 1;
+     
+        for (int i = 1; i <= n; i++)
         {
-            Console.WriteLine("Enter temperature in Fahrenheit:");
-            double fahrenheit = Convert.ToDouble(Console.ReadLine());
-            double celsius = (fahrenheit -32) /1.8;
-            Console.WriteLine($"Temperature in celsius: {celsius}");
+            sum *= i;
         }
-        else if (input == 2)
+        return sum;
+    }
+
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Enter a number to calculate its factorial:");
+        int number = Convert.ToInt32(Console.ReadLine());
+        
+        if (number < 0)
         {
-            Console.WriteLine("Enter temperature in celsius:");
-            double celsius = Convert.ToDouble(Console.ReadLine());
-            double fahrenheit = 1.8 * celsius + 32;
-            Console.WriteLine($"Temperature in Celsius: {fahrenheit}");
+            Console.WriteLine("Factorial is not defined for negative numbers.");
         }
         else
         {
-            Console.WriteLine("Invalid input. Please enter 1 for Celsius to Fahrenheit or 2 for Fahrenheit to Celsius.");
+            int result = Factorial(number);
+            Console.WriteLine($"The factorial of {number} is {result}.");
         }
-
+        
+        Console.ReadKey();
     }
 }
 
